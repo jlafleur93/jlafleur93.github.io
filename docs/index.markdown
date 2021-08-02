@@ -1,11 +1,13 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Home
 layout: home
 ---
-### Joseph LaFleur
+
+
 ----
+
 #### Junior Web Developer transition from Computer technician. Working as a computer tech taught me the love for the hardware and I knew I wanted to go deeper. 
 #### What I love about web development is researching bugs and problems, finding solutions is satisfying!  Once you get through one problem the next seems to make more sense. I enjoy creating easy to use products that are a seamless interaction for the customer.
 ---
