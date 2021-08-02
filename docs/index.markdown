@@ -4,6 +4,7 @@
 title: ""
 general: Home
 layout: home
+baseurl: hello
 ---
 
 Hello my Name is Joseph LaFleur.
