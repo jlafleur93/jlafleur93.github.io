@@ -5,10 +5,10 @@ title: Home
 layout: home
 ---
 
+                                                            Hello my Name is Joseph LaFleur.
 
-----
 
-#### Junior Web Developer transition from Computer technician. Working as a computer tech taught me the love for the hardware and I knew I wanted to go deeper. 
+#### I am a Junior Web Developer transitioning from Computer technician. Working as a computer tech taught me the love for the hardware and I knew I wanted to go deeper. 
 #### What I love about web development is researching bugs and problems, finding solutions is satisfying!  Once you get through one problem the next seems to make more sense. I enjoy creating easy to use products that are a seamless interaction for the customer.
 ---
 ### Skills
