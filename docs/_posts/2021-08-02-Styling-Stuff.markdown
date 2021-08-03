@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Styling Stuff"
-date:   2021-08-01 15:15:14 -0600
+date:   2021-08-02 12:15:14 -0600
 categories: jekyll update
 ---
 
