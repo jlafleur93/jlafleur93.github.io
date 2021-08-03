@@ -7,7 +7,7 @@ menu: about
 exclude: true
 ---
 
-My name is Joseph LaFleur, I am an Aborigonal Developer. 
+My name is Joseph LaFleur, I am an aboriginal Developer. 
 I enjoy Video Games, Anime, and Music.
 
 I am Located In Grande Prairie, Alberta, Canada.
