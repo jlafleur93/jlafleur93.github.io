@@ -194,7 +194,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
-  text-align: center;
+  text-align: left;
 }
 
 .post-list {
@@ -216,6 +216,8 @@
 
 .post-link {
   display: block;
+  text-align: left;
+
   @include relative-font-size(1.5);
 }
 
