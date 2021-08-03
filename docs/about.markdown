@@ -3,6 +3,8 @@ layout: page
 title: ""
 general: About
 permalink: /about/
+menu: about
+exclude: true
 ---
 
 My name is Joseph LaFleur, I am an Aborigonal Developer. 

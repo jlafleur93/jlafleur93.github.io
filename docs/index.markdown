@@ -2,9 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: ""
-general: Home
 layout: home
-baseurl: hello
+menu: main
 ---
 
 Hello my Name is Joseph LaFleur.

@@ -10,11 +10,12 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right" id="nav-divs">
-                {% if page.url == "/index.html" %}
-                <li><a href="{{ !site.baseurl }}/">Home</a></li>
+                {% if page.url != "/" %}
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
                 {% endif %}
+
                 <a href="{{ site.baseurl }}/about">About</a>
-                <a href="{{ site.baseurl }}/posts">Posts</a>
+                <a href="{{ site.baseurl }}/posts">Blog</a>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
