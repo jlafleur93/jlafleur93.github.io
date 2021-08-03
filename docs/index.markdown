@@ -14,39 +14,66 @@ Hello my Name is Joseph LaFleur.
 
 ### Skills
 
-```Javascript, Ruby, Python, NodeJS, ReactJS, Rails, HTML5, CSS, SASS, TailwindCSS, Active Record, PSQL, EJS, AJAX, JQuery, Node, Express, Material-UI.```
+Javascript, Ruby, Python, NodeJS, ReactJS, Rails, HTML5, CSS, SASS, TailwindCSS, Active Record, PSQL, EJS, AJAX, JQuery, Node, Express, Material-UI
 
 ---
 ### Projects
+---
+
 **[Flavor Match]**
 
 This app will turn anyone into a chef with an ability to match any ingredients that have a compatible flavor profile.
 
 Tech Stack
-HTML, CSS3, JS, React, Rails, Material-UI
+[HTML, CSS3, JS, React, Rails, Material-UI]
 
 **[Tweeter]**
 
 Tweeter is a simple, single-page Twitter clone.
 
 This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express back-end skills.
+
 Tech Stack
 
-HTML5, CSS3, JS, AJAX
+[HTML5, CSS3, JS, AJAX]
 
 **[Tiny App]**
 
 TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLS.
 
----
+Tech Stack
+[HTML5, CSS3, JS, AJAX, EJS, Express, Bootstrap]
 
+---
 ### Work Experience
 ---
+
+
  *Census Canada*  
-May 2021 - Jul 2021 
+  May 2021 - Jul 2021
  * Going to dwellings, and surveying houses.
+ * Collecting and managing questionnaires by interviewing the person.
+ * Getting in touch with individuals to be interviewed at a suitable date. 
 
+ *Sai'kuz First Nation*  
+  May 2021 - Jul 2021
+* Perform audits and tests on computer systems, networks and hardware to ensure it is functioning properly.
+* Set up and configure computers and Peripherals.
+* Respond to support requests and assist in troubleshooting any problems that arise.
 
+---
+### Education
+---
+
+ *Lighthouse Labs*  
+  Diploma of Web Development
+ * Web development bootcamp, with a focus on the foundations of Javascript.
+ * Collabration with peer built projects, and a focus on real world experience 
+
+ *Nicola Valley Institute of Technology*  
+  Foundations In Innovation & Technology
+  * Learned of 6 in-demand fields, including, Web Development, Software-testing, GiS Mapping, Marketing, etc.  
+ 
 [Flavor Match]:https://github.com/jlafleur93/feb3cohort_final_project
 [Tweeter]:https://github.com/jlafleur93/tweeter
 [Tiny App]:https://github.com/jlafleur93/tinyapp

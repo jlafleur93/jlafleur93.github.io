@@ -194,6 +194,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  text-align: center;
 }
 
 .post-list {
@@ -206,8 +207,8 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
+  @include relative-font-size(1.25);
+  float: left;
 }
 
 .post-link {
