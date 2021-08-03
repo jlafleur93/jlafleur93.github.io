@@ -255,3 +255,13 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+strong > a {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
