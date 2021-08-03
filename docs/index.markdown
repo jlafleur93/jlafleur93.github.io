@@ -39,6 +39,14 @@ HTML5, CSS3, JS, AJAX
 TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLS.
 
 ---
+
+### Work Experience
+---
+ *Census Canada*  
+May 2021 - Jul 2021 
+ * Going to dwellings, and surveying houses.
+
+
 [Flavor Match]:https://github.com/jlafleur93/feb3cohort_final_project
 [Tweeter]:https://github.com/jlafleur93/tweeter
 [Tiny App]:https://github.com/jlafleur93/tinyapp
