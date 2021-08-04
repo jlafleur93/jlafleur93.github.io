@@ -14,7 +14,7 @@ I spent a lot of my youth learning how to hardmod, and hack Video Game consoles.
 
 I enjoy spending time playing Video Games, Reading Manga, and spoiling my dog.
 
-My great grandmother was a traditional Medicine Woman, and spent a lot of her life talking about the importance of Enviriomentalismm, and the importance of respecting wildlife. 
+My great grandmother was a traditional Medicine Woman, and spent a lot of her life talking about the importance of Environmentalism, and the importance of respecting wildlife. 
 
 Those words have always stuck with me.
 
