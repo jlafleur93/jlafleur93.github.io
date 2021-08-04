@@ -10,6 +10,8 @@
   position: relative;
 }
 #nav-divs {
+  font-family: 'VT323';
+  font-size: 28px;
   text-align: justify;
   display: inline-flex;
   list-style-type: none;
@@ -186,6 +188,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background-color: #2b2d2f;
 }
 
 .page-heading {

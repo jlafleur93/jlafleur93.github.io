@@ -14,7 +14,7 @@ Hello my Name is Joseph LaFleur.
 
 ### Skills
 
-Javascript, Ruby, Python, NodeJS, ReactJS, Rails, HTML5, CSS, SASS, TailwindCSS, Active Record, PSQL, EJS, AJAX, JQuery, Node, Express, Material-UI
+```Javascript, Ruby, Python, NodeJS, ReactJS, Rails, HTML5, CSS, SASS, TailwindCSS, Active Record, PSQL, EJS, AJAX, JQuery, Node, Express, Material-UI```
 
 ---
 ### Projects
@@ -25,7 +25,7 @@ Javascript, Ruby, Python, NodeJS, ReactJS, Rails, HTML5, CSS, SASS, TailwindCSS,
 This app will turn anyone into a chef with an ability to match any ingredients that have a compatible flavor profile.
 
 Tech Stack
-[HTML, CSS3, JS, React, Rails, Material-UI]
+```HTML, CSS3, JS, React, Rails, Material-UI```
 
 **[Tweeter]**
 
@@ -35,14 +35,14 @@ This repository is the starter code for the project: Students will fork and clon
 
 Tech Stack
 
-[HTML5, CSS3, JS, AJAX]
+```HTML5, CSS3, JS, AJAX```
 
 **[Tiny App]**
 
 TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLS.
 
 Tech Stack
-[HTML5, CSS3, JS, AJAX, EJS, Express, Bootstrap]
+```HTML5, CSS3, JS, AJAX, EJS, Express, Bootstrap```
 
 ---
 ### Work Experience
