@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Day of Nightmare Rubies"
 date:   2021-08-01 15:15:14 -0600
 categories: jekyll update
