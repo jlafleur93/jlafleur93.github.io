@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Wednesday Work"
-date:   2021-08-04 18:20:00 -0600
+date:   2021-08-04 12:20:00 -0600
 categories: jekyll update
 ---
 Hello Bloggies, 
