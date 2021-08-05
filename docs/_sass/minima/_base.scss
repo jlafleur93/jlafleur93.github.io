@@ -185,10 +185,10 @@ pre {
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  border: thick double #2b2d2f;
   margin-right: auto;
   background-color: white;
   font-family: Ubuntu;
-  border: thick double #2b2d2f;
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
@@ -272,7 +272,6 @@ hr {
 }
 header {
   background-color: white;
-  border: thick double #2b2d2f;
 }
 
 p:first-of-type {

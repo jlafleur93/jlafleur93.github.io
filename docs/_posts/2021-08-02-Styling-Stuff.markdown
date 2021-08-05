@@ -4,6 +4,8 @@ title:  "Styling Stuff"
 date:   2021-08-02 12:15:14 -0600
 categories: jekyll update
 ---
+Hello, Bloggies
+
 
 Today's work was just a majority of reading and messing with the minima theme, and doing slight edits to match the edits I want for this website, and other small changes.
  
