@@ -4,7 +4,7 @@ title:  "Day of Nightmare Rubies"
 date:   2021-08-01 15:15:14 -0600
 categories: jekyll update
 ---
-Hello Bloggies, 
+Hello readers, 
 
 I've spent the majority of today reinstalling ruby, as it had issues installing to a more current version  to support jekyll and get this inactive domain finally doing something. 
 
