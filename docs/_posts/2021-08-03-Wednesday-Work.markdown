@@ -4,7 +4,7 @@ title:  "Wednesday Work"
 date:   2021-08-04 12:20:00 -0600
 categories: jekyll update
 ---
-Hello Bloggies, 
+Hello readers, 
 
 Today was spent mostly just editing small changes again, also my styling on the blog pages was initially broken.
  
