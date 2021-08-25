@@ -6,10 +6,11 @@ permalink: /about/
 menu: about
 ---
 
-My name is Joseph LaFleur, 
+
+Hello I am Joseph LaFleur.
 
 I am an Aboriginal Developer. 
- Located In Grande Prairie, Alberta, Canada. 
+Located In Grande Prairie, Alberta, Canada. 
 I spent a lot of my youth learning how to hardmod, and hack Video Game consoles. I learned a lot of troubleshooting skills, and wanted to slowly learn more about computers, which has lead me to developing websites. 
 
 I enjoy spending time playing Video Games, Reading Manga, and spoiling my dog.
